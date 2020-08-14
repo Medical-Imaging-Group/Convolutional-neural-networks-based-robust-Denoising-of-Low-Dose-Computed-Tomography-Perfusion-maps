@@ -1,10 +1,9 @@
 # Convolutional-neural-networks-based-robust-Denoising-of-Low-Dose-Computed-Tomography-Perfusion-maps
 
-Denoising of low dose CT perfusion maps using Deep Learning
 
-Matlab Codes* : (requires [MatConvNet](http://www.vlfeat.org/matconvnet/) )
+**Matlab Codes** : (requires [MatConvNet](http://www.vlfeat.org/matconvnet/) )
 
-Data: Training data is generated using the tool [digital-brain-perfusion-phantom](https://www5.cs.fau.de/research/data/digital-brain-perfusion-phantom/)
+**Data** : Training data is generated using the tool [digital-brain-perfusion-phantom](https://www5.cs.fau.de/research/data/digital-brain-perfusion-phantom/)
 
 Matlab code for generating the network architecture.
 
